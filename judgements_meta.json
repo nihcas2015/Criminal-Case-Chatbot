@@ -1,0 +1,67 @@
+[
+  {
+    "case_id": "30.txt",
+    "section": "Case facts",
+    "text": "Appellant: General Manager of Jagdishpur Zamindary Company.\nIncident occurred on 6th December, 1947 at Bhita Sugar Factory, Patna.\nBackground: The company had failed to comply with orders for supply of sugar under the Sugar and Sugar Products Control Order, 1947.\nGovernment order dated 5th December, 1947 authorized District Magistrate and Special Officer to seize 5,000 maunds of sugar from the company.\nOn 6th December, 1947, appellant obstructed officers by locking godowns, blocking roads with coal, firewood, and tins, and making a railway siding unserviceable.\nOfficers required armed police to remove sugar."
+  },
+  {
+    "case_id": "30.txt",
+    "section": "Issues",
+    "text": "Whether the appellant\u2019s obstruction constituted an offence under section 186 of the Indian Penal Code.\nWhether the government order of 5th December, 1947 was legal and valid.\nWhether obstruction of an act done in good faith by public officers constitutes an offence."
+  },
+  {
+    "case_id": "30.txt",
+    "section": "Arguments/Reasoning",
+    "text": "Appellant argued the government order was illegal under the Essential Supplies (Temporary Powers) Act, 1946 and obstruction to an illegal order could not be an offence.\nRespondent argued that an act done honestly and in good faith by a public servant in discharge of public duties suffices for offence under section 186.\nCourt considered scope of section 3 of the Act: subsection (1) confers power to regulate or prohibit production, supply, and distribution of essential commodities, and covers both general and special orders.\nSubsection (2) is illustrative; seizure of articles falls within powers under subsection (1).\nReference to the prior incomplete order (27th September, 1947) was immaterial; 5th December order valid.\nPrecedents (Calcutta High Court and Privy Council) supported wide interpretation of powers and illustrative nature of subsection (2)."
+  },
+  {
+    "case_id": "30.txt",
+    "section": "Decision/Holding",
+    "text": "Appeal dismissed.\nOrder of 5th December, 1947 held valid.\nAppellant\u2019s obstruction constituted an offence under section 186 IPC.\nAppellant\u2019s bail bond cancelled; ordered to surrender."
+  },
+  {
+    "case_id": "38.txt",
+    "section": "Case",
+    "text": "Criminal Appeal No. 15 of 1950\nCourt: Supreme Court of India\nJudge: Fazl Ali J.\nDate: March 19, 1950"
+  },
+  {
+    "case_id": "38.txt",
+    "section": "Case Facts",
+    "text": "- Appellant: Licensee of two petrol stations in Guntur, resident of Chirala.\n- Employees managed the petrol stations on his behalf.\n- Charges: Supplying petrol without coupons (clause 22 + clause 5), accepting coupons in advance without supply (clause 27), supplying petrol without endorsing coupons (clause 27A) under Motor Spirit Rationing Order, 1941 (Rule 81 of Defence of India Rules).\n- Appellant argued he was not present, issued instructions to employees, and had no knowledge of breaches."
+  },
+  {
+    "case_id": "38.txt",
+    "section": "Issues",
+    "text": "- Whether mens rea (guilty mind) is necessary to constitute an offence under Rule 81.\n- Whether a master/supplier can be held criminally liable for acts of employees without personal knowledge."
+  },
+  {
+    "case_id": "38.txt",
+    "section": "Arguments/Reasoning",
+    "text": "- Appellant: Mens rea is required; cannot be liable for acts of employees he did not know about.\n- Respondent: Offences under Defence of India Rules do not require mens rea; master liable for acts of employees in certain statutory offences.\n- Precedents: Srinivas Mall Bairolia v. King Emperor, Isak Solomon Macmull v. Emperor, Mousell Brothers v. London & NW Railway, Mullins v. Collins.\n- Court held: Clauses 22 and 27 require mens rea; conviction quashed. Clause 27A imposes absolute duty on supplier; conviction upheld."
+  },
+  {
+    "case_id": "38.txt",
+    "section": "Decision/Holding",
+    "text": "- Appeal allowed in part:\n  - Clauses 22 & 27: Convictions quashed.\n  - Clause 27A: Conviction and sentence affirmed."
+  },
+  {
+    "case_id": "7.txt",
+    "section": "Case facts",
+    "text": "Appellant: Mohinder Singh.\nIncident occurred on 28th February 1949 near a Gurdwara in village Augar, Punjab.\nVictims: Dalip Singh (killed) and Jita Singh (injured), brothers of Bachittar Singh.\nBackground: Dispute over a tree cut by 7 persons including Mohinder Singh.\nEvents: Mohinder Singh and Gurnam Singh attacked the brothers; Dalip Singh was shot and died on the spot. Jita Singh was injured. Police investigation followed, leading to charges under IPC sections 302 and 307 read with section 34."
+  },
+  {
+    "case_id": "7.txt",
+    "section": "Issues",
+    "text": "Was Mohinder Singh guilty of the murder of Dalip Singh and attempted murder of Jita Singh?\nCould the alleged injuries have been caused by Mohinder Singh\u2019s gun (exhibit P16)?\nWas the prosecution evidence sufficient and reliable to convict the appellant?\nWas the plea of alibi credible and properly evaluated?"
+  },
+  {
+    "case_id": "7.txt",
+    "section": "Arguments/Reasoning",
+    "text": "Prosecution relied on oral testimony of 3 witnesses; medical evidence and ballistic expert\u2019s evidence were considered unsatisfactory or inconclusive.\nDoubts existed regarding the weapon used, nature of injuries, and eyewitness reliability.\nAlibi evidence (appearance before Naib Tehsildar on 28th Feb) suggested Mohinder Singh may not have been present at the crime scene.\nCourts below failed to adequately address material gaps in prosecution case, ignored expert evidence, and relied solely on oral testimonies that were not fully independent or credible.\nSupreme Court emphasized the principle: prosecution must prove all essential elements of the case beyond reasonable doubt, particularly in capital punishment matters."
+  },
+  {
+    "case_id": "7.txt",
+    "section": "Decision/Holding",
+    "text": "Appeal allowed.\nConviction under IPC sections 302 and 307 read with section 34 set aside.\nMohinder Singh released immediately.\nSupreme Court noted the trial and High Court proceedings did not constitute a fair and proper trial."
+  }
+]

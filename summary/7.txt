@@ -1,0 +1,25 @@
+Case facts: 
+Appellant: Mohinder Singh.
+Incident occurred on 28th February 1949 near a Gurdwara in village Augar, Punjab.
+Victims: Dalip Singh (killed) and Jita Singh (injured), brothers of Bachittar Singh.
+Background: Dispute over a tree cut by 7 persons including Mohinder Singh.
+Events: Mohinder Singh and Gurnam Singh attacked the brothers; Dalip Singh was shot and died on the spot. Jita Singh was injured. Police investigation followed, leading to charges under IPC sections 302 and 307 read with section 34.
+
+Issues: 
+Was Mohinder Singh guilty of the murder of Dalip Singh and attempted murder of Jita Singh?
+Could the alleged injuries have been caused by Mohinder Singh’s gun (exhibit P16)?
+Was the prosecution evidence sufficient and reliable to convict the appellant?
+Was the plea of alibi credible and properly evaluated?
+
+Arguments/Reasoning: 
+Prosecution relied on oral testimony of 3 witnesses; medical evidence and ballistic expert’s evidence were considered unsatisfactory or inconclusive.
+Doubts existed regarding the weapon used, nature of injuries, and eyewitness reliability.
+Alibi evidence (appearance before Naib Tehsildar on 28th Feb) suggested Mohinder Singh may not have been present at the crime scene.
+Courts below failed to adequately address material gaps in prosecution case, ignored expert evidence, and relied solely on oral testimonies that were not fully independent or credible.
+Supreme Court emphasized the principle: prosecution must prove all essential elements of the case beyond reasonable doubt, particularly in capital punishment matters.
+
+Decision/Holding: 
+Appeal allowed.
+Conviction under IPC sections 302 and 307 read with section 34 set aside.
+Mohinder Singh released immediately.
+Supreme Court noted the trial and High Court proceedings did not constitute a fair and proper trial.

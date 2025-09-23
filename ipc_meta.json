@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "section_number": "302",
+    "section_text": "Punishment for murder",
+    "punishment": "Death penalty or life imprisonment and fine"
+  },
+  {
+    "id": 1,
+    "section_number": "307",
+    "section_text": "Attempt to murder",
+    "punishment": "Imprisonment up to 10 years and fine; life imprisonment if hurt is caused"
+  },
+  {
+    "id": 2,
+    "section_number": "379",
+    "section_text": "Punishment for theft",
+    "punishment": "Imprisonment up to 3 years, or fine, or both"
+  }
+]
