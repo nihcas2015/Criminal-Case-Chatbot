@@ -1,25 +1,37 @@
-Case facts: 
-Appellant: Mohinder Singh.
-Incident occurred on 28th February 1949 near a Gurdwara in village Augar, Punjab.
-Victims: Dalip Singh (killed) and Jita Singh (injured), brothers of Bachittar Singh.
-Background: Dispute over a tree cut by 7 persons including Mohinder Singh.
-Events: Mohinder Singh and Gurnam Singh attacked the brothers; Dalip Singh was shot and died on the spot. Jita Singh was injured. Police investigation followed, leading to charges under IPC sections 302 and 307 read with section 34.
+Here's a summary of the judgment in the requested format:
 
-Issues: 
-Was Mohinder Singh guilty of the murder of Dalip Singh and attempted murder of Jita Singh?
-Could the alleged injuries have been caused by Mohinder Singh’s gun (exhibit P16)?
-Was the prosecution evidence sufficient and reliable to convict the appellant?
-Was the plea of alibi credible and properly evaluated?
+### 1. Case Facts
 
-Arguments/Reasoning: 
-Prosecution relied on oral testimony of 3 witnesses; medical evidence and ballistic expert’s evidence were considered unsatisfactory or inconclusive.
-Doubts existed regarding the weapon used, nature of injuries, and eyewitness reliability.
-Alibi evidence (appearance before Naib Tehsildar on 28th Feb) suggested Mohinder Singh may not have been present at the crime scene.
-Courts below failed to adequately address material gaps in prosecution case, ignored expert evidence, and relied solely on oral testimonies that were not fully independent or credible.
-Supreme Court emphasized the principle: prosecution must prove all essential elements of the case beyond reasonable doubt, particularly in capital punishment matters.
+*   **Incident:** On February 28, 1949, Dalip Singh was murdered and his brother, Jita Singh, was shot and injured. The incident occurred near a Gurdwara in village Augar.
+*   **Allegations:** The prosecution alleged that the appellant, Mohinder Singh, and Gurnam Singh attacked Jita Singh and Dalip Singh. Mohinder Singh was accused of firing at both Jita Singh and Dalip Singh with a gun. Gurnam Singh was accused of firing at Dalip Singh with a rifle.
+*   **Background:** The attack followed a complaint lodged by Dalip Singh's brother against Mohinder Singh and others for cutting a tree.
+*   **Trial and Appeals:** The appellant (Mohinder Singh) was convicted under Sections 302 (murder) and 307 (attempt to murder) read with Section 34 of the Indian Penal Code by the Sessions Judge and sentenced to death. The High Court upheld this conviction and sentence. This appeal was made to the Supreme Court by special leave.
 
-Decision/Holding: 
-Appeal allowed.
-Conviction under IPC sections 302 and 307 read with section 34 set aside.
-Mohinder Singh released immediately.
-Supreme Court noted the trial and High Court proceedings did not constitute a fair and proper trial.
+### 2. Issues
+
+*   Whether the prosecution had adequately proven that the injuries sustained by Dalip Singh were caused by the appellant and his co-accused using the weapons alleged (a gun and a rifle).
+*   Whether the appellant's alibi (claiming to be in court at Zira at the time of the incident) was properly considered and decided by the lower courts.
+*   Whether there was a fundamental gap in the prosecution's evidence, particularly regarding expert testimony linking the injuries to the alleged weapons and the manner of firing.
+*   Whether the conviction of the appellant, despite these evidentiary issues, constituted a miscarriage of justice.
+
+### 3. Arguments/Reasoning
+
+*   **Prosecution's Case:** Relied primarily on the oral testimony of three witnesses (Jita Singh, Harnam Singh, and Buta Singh) and the medical examination of the deceased.
+*   **Defense Arguments:**
+    *   Challenged the eyewitness accounts, highlighting that none were local residents and some had potential biases.
+    *   Argued that the medical evidence, particularly the nature of Dalip Singh's injuries, was inconsistent with the prosecution's account of a gun being fired at close range.
+    *   Presented an alibi defense, claiming the appellant was at the Naib Tehsildar's court in Zira on the day of the incident, supported by the Naib Tehsildar, his brother-in-law, and a handwriting expert.
+    *   Questioned the handling of evidence related to the process server's report concerning the appellant's summons.
+*   **Supreme Court's Reasoning:**
+    *   Found the prosecution's case significantly lacking expert evidence to establish the link between the appellant's gun and the injuries, or to clarify whether the injuries were caused by a gun or rifle, or at what distance.
+    *   Noted that the High Court itself expressed doubts about the weapon used and the nature of the injuries, calling the medical expert's statement "unsatisfactory."
+    *   Considered the oral evidence insufficient without corroboration from expert testimony, especially given the "chance witnesses" and potential partisanship.
+    *   Believed the lower courts had not properly addressed the appellant's alibi, disregarding evidence of his presence at the Naib Tehsildar's court and the written application with his thumb impression.
+    *   Concluded that there was a fundamental gap in the prosecution's proof regarding a material aspect of the case.
+
+### 4. Decision/Holding
+
+*   The Supreme Court **allowed the appeal**.
+*   The **conviction** of the appellant under Sections 302 and 307 read with Section 34 of the Indian Penal Code was **set aside**.
+*   The appellant was **ordered to be set at liberty forthwith**.
+*   The Court held that the appellant had not received a fair and proper trial due to substantial gaps in the prosecution's evidence, particularly the lack of expert confirmation connecting the weapon to the injuries, and the inadequate consideration of his alibi. Remanding the case for a retrial was deemed unfair due to the prolonged period of suspense the appellant had endured.

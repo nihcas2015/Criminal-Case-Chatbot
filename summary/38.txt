@@ -1,25 +1,29 @@
-Case: Criminal Appeal No. 15 of 1950
-Court: Supreme Court of India
-Judge: Fazl Ali J.
-Date: March 19, 1950
+Here's a summary of the judgment in clear sections:
 
-Case Facts:
-- Appellant: Licensee of two petrol stations in Guntur, resident of Chirala.
-- Employees managed the petrol stations on his behalf.
-- Charges: Supplying petrol without coupons (clause 22 + clause 5), accepting coupons in advance without supply (clause 27), supplying petrol without endorsing coupons (clause 27A) under Motor Spirit Rationing Order, 1941 (Rule 81 of Defence of India Rules).
-- Appellant argued he was not present, issued instructions to employees, and had no knowledge of breaches.
+### 1. Case Facts
 
-Issues:
-- Whether mens rea (guilty mind) is necessary to constitute an offence under Rule 81.
-- Whether a master/supplier can be held criminally liable for acts of employees without personal knowledge.
+*   The appellant, a licensee of two petrol filling stations, was convicted by a Sessions Judge of Guntur for violations of the Motor Spirit Rationing Order, 1941, under the Defence of India Rules.
+*   The offenses involved supplying petrol without coupons and accepting coupons in advance without supplying petrol, as well as failing to make necessary endorsements on coupons.
+*   The appellant argued he was not present at the time of the offenses and not personally aware of his employees' actions, claiming he was not liable as he had instructed them to follow the rules.
+*   The lower courts (Magistrate, Sessions Judge, and High Court) convicted him, holding that *mens rea* (a guilty mind) was not a necessary element for these offenses.
+*   Special leave to appeal was granted by the Privy Council, limited to the question of *mens rea*, and the case was later transferred to the Supreme Court.
 
-Arguments/Reasoning:
-- Appellant: Mens rea is required; cannot be liable for acts of employees he did not know about.
-- Respondent: Offences under Defence of India Rules do not require mens rea; master liable for acts of employees in certain statutory offences.
-- Precedents: Srinivas Mall Bairolia v. King Emperor, Isak Solomon Macmull v. Emperor, Mousell Brothers v. London & NW Railway, Mullins v. Collins.
-- Court held: Clauses 22 and 27 require mens rea; conviction quashed. Clause 27A imposes absolute duty on supplier; conviction upheld.
+### 2. Issues
 
-Decision/Holding:
-- Appeal allowed in part:
-  - Clauses 22 & 27: Convictions quashed.
-  - Clause 27A: Conviction and sentence affirmed.
+*   The primary issue before the court was whether *mens rea* (guilty mind or intent) is a necessary element to establish an offense under Section 81 of the Defence of India Rules, specifically concerning violations of the Motor Spirit Rationing Order, 1941.
+*   Specifically, the court had to determine if the appellant, as the licensee and employer, could be held criminally liable for the actions of his employees who committed the violations, even if he had no personal knowledge or direct involvement.
+
+### 3. Arguments/Reasoning
+
+*   **Appellant's Argument:** The appellant argued that he should not be held liable for the offenses committed by his employees because he was not present, had no knowledge of their actions, and had issued instructions for compliance with the rules. He contended that *mens rea* was essential for a criminal conviction.
+*   **Respondent's Argument:** The respondent argued that *mens rea* was not essential for these specific offenses, and the appellant, as the licensee and employer, was vicariously liable for the actions of his employees under the Defence of India Rules and the Motor Spirit Rationing Order.
+*   **Court's Reasoning:**
+    *   The court referenced the Privy Council's decision in *Srinivas Mall Bairolia vs King Emperor*, which held that unless a statute clearly or by necessary implication rules out *mens rea*, a defendant should not be found guilty without a guilty mind. The court agreed with this principle, stating that offenses carrying severe penalties (like imprisonment) usually require *mens rea*.
+    *   Regarding **Clause 22** (supplying petrol otherwise than in accordance with the order), the court found that the language was general but aimed at the individual performing the act. It suggested that *mens rea* would be relevant and that the appellant, not having personally furnished the petrol, could not be held guilty without proof of his knowledge or intent. The court followed a Bombay High Court decision with similar reasoning.
+    *   However, regarding **Clause 27A** (failure to endorse coupons), the court distinguished it. It reasoned that this clause imposed an absolute duty on the "supplier" to ensure endorsements were made. The objective was to prevent the forbidden act (lack of endorsement), and the definition of "supplier" included the licensee. The court cited English cases (like *Mousell Brothers vs London and North Western Railway* and *Mullins vs Collins*) where statutes imposed strict liability on principals for their servants' actions to ensure compliance with regulations, especially for regulatory offenses aimed at public safety or order. Therefore, the court concluded that the licensee, as the "supplier," was strictly liable for the default of his servants in failing to endorse the coupons, even without personal knowledge.
+
+### 4. Decision/Holding
+
+*   The appeal was **allowed in part**.
+*   The conviction and sentence for the charges related to **Clause 22** of the Motor Spirit Rationing Order (supplying petrol without coupons) were **quashed**. This was based on the principle that *mens rea* was required, and the appellant did not personally commit these acts and had no knowledge of his employees' actions.
+*   The conviction and sentence for the charge related to **Clause 27A** of the Motor Spirit Rationing Order (failure to make necessary endorsements on coupons) were **affirmed**. This was based on the court's finding that Clause 27A imposed strict liability on the "supplier" (the licensee) to ensure compliance, regardless of personal knowledge or fault of the servant.
