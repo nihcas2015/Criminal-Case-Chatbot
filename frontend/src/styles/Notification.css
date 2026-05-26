@@ -1,0 +1,149 @@
+.notification-container {
+  position: fixed;
+  top: 1.5rem;
+  right: 1.5rem;
+  z-index: 1100;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  pointer-events: none;
+  max-width: 400px;
+}
+
+.notification {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem 1.25rem;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  border-left: 4px solid;
+  animation: slideInRight 0.3s ease;
+  pointer-events: auto;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  align-items: flex-start;
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(400px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideOutRight {
+  from {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateX(400px);
+  }
+}
+
+.notification.removing {
+  animation: slideOutRight 0.3s ease;
+  pointer-events: none;
+}
+
+/* Success Notification */
+.notification-success {
+  background: #ecfdf5;
+  color: #065f46;
+  border-left-color: var(--success-color);
+}
+
+/* Error Notification */
+.notification-error {
+  background: #fef2f2;
+  color: #7f1d1d;
+  border-left-color: var(--danger-color);
+}
+
+/* Warning Notification */
+.notification-warning {
+  background: #fffbeb;
+  color: #78350f;
+  border-left-color: var(--warning-color);
+}
+
+/* Info Notification */
+.notification-info {
+  background: #eff6ff;
+  color: #082f49;
+  border-left-color: var(--primary-light);
+}
+
+.notification-icon {
+  font-size: 1.25rem;
+  flex-shrink: 0;
+  margin-top: 0.1rem;
+}
+
+.notification-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.notification-title {
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.notification-message {
+  font-size: 0.85rem;
+  opacity: 0.9;
+  line-height: 1.4;
+}
+
+.notification-close {
+  background: none;
+  border: none;
+  color: inherit;
+  font-size: 1.25rem;
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  opacity: 0.7;
+  transition: all 0.3s ease;
+}
+
+.notification-close:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+/* Toast Notification */
+.toast {
+  min-width: 300px;
+  max-width: 400px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .notification-container {
+    top: 1rem;
+    right: 1rem;
+    left: 1rem;
+    max-width: none;
+  }
+
+  .notification {
+    width: 100%;
+  }
+
+  .toast {
+    min-width: auto;
+    max-width: 100%;
+  }
+}
