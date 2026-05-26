@@ -1,4 +1,4 @@
-x# Legal AI Assistant
+# Legal AI Assistant
 
 A full-stack application providing AI-powered legal query responses with IPC (Indian Penal Code) section identification and relevant case law retrieval. This system leverages the Mistral 7B language model to deliver accurate legal analysis, case law retrieval, and statutory section recommendations for Indian legal queries.
 
